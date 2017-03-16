@@ -9,4 +9,4 @@ Embedded leaflet map:
 
 Embedded highchart:
 
-<iframe src="https://ianhay.github.io/highcharts-scatter-csv/" width="90%" height="350"></iframe> 
+<iframe src="https://ianhay.github.io/highcharts-scatter-csv/index.html" width="90%" height="350"></iframe> 
